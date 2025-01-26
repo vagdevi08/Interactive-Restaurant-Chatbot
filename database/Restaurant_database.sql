@@ -95,7 +95,7 @@ INSERT INTO `orders` VALUES (40,1,2,12.00),(40,3,1,8.00),(41,4,3,15.00),(41,6,2,
 UNLOCK TABLES;
 
 --
--- Dumping routines for database 'pandeyji_eatery'
+-- Dumping routines for database 'Restaurant_database'
 --
 /*!50003 DROP FUNCTION IF EXISTS `get_price_for_item` */;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
